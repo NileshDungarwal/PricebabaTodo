@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="lightGrey">#F0F0F0 </color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="navy">#000080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="lightYellow">#FFFFE0</color>
+    <color name="darkYellow">#CCCC00</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="floralWhite">#FFFAF0</color>
+    <color name="lemonChiffon">#FFFACD</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="lavenderBlush">#FFF0F5</color>
+    <color name="oapayaWhip">#FFEFD5</color>
+    <color name="blanchedAlmond">#FFEBCD</color>
+    <color name="orange">#ff5500</color>
+    <color name="transparent">#00000000</color>
+    <color name="date_color">#999999</color>
+    <color name="black">#000000</color>
+    <color name="dimGray">#696969</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="gray">#999999</color>
+    <color name="blue">#0066cc</color>
+    <color name="gold">#e6b121</color>
+    <color name="blueback">#99FFFF</color>
+    <color name="articlecolor">#3399FF</color>
+    <color name="article_title">#3399FF</color>
+    <color name="cachecolor">#8ad0e8</color>
+    <color name="darkGreen">#009900</color>
+    <color name="maizeYellow">#FBEC5D</color>
+    <color name="lightGreen">#90EE90</color>
+    <color name="lightRed">#ff8080</color>
+
+</resources>
